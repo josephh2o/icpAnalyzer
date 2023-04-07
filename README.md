@@ -10,4 +10,5 @@ icpAnalyzer is a BME project for converting x-ray images of a implanted device i
 - [ ] Build 3D model from vectors
 - [ ] Determine amount of deformation compared to reference lengths
 - [ ] Develop a UI for the app
+
 Built on JetBrains PyCharm 2023.1.
